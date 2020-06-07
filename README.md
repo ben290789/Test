@@ -1,5 +1,6 @@
 <!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-au" lang="en-au"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>About Me</title><meta name="author" content="Ben Rodd"/><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
+ <img src="https://raw.githubusercontent.com/ben290789/Test/master/IMG_2672.JPG" alt="Flowers in Chania" width="460" height="345">
  .s1 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 72pt; }
  .s2 { color: black; font-family:"Bahnschrift Light", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
  p { color: black; font-family:"Bradley Hand ITC"; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; margin:0pt; }
