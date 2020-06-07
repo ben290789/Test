@@ -1,4 +1,14 @@
-<!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-au" lang="en-au"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>My Assignment</title><meta name="author" content="Ben Rodd"/><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
  .s1 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 48pt; }
  p { color: black; font-family:"Lucida Sans", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 18pt; margin:0pt; }
